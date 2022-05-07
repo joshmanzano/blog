@@ -1,0 +1,19 @@
+name: Josh's Blog
+description: Blog about everything 
+meta_description: "Josh's Blog, Senior Engineer at Yahoo"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ""
+domain_name: "https://blog.joshmanzano.com"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Joshua Manzano"
+
+# Disqus config
+disqus-shortname: ""

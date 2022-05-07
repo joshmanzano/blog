@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Why?"
+date:   2022-05-07 18:29
+categories: Life
+---
+
+Hello there!
+
+So why did I start this blog?
+
+Well there are a lot of reasons.
+
+[TO BE CONTINUED]
